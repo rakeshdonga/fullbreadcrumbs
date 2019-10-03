@@ -1,0 +1,26 @@
+{
+    "name": "rakesh/fixproductbreadcrumbs",
+    "description": "",
+    "require": {
+        "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0",
+        "magento/module-catalog": "*",
+        "magento/module-theme": "*",
+        "magento/magento-composer-installer": "*"
+    },
+    "suggest": {
+
+    },
+    "type": "magento2-module",
+    "version": "0.1.1",
+    "license": [
+
+    ],
+    "autoload": {
+        "files": [
+            "src/registration.php"
+        ],
+        "psr-4": {
+            "rakesh\\FixProductBreadcrumbs\\": "src"
+        }
+    }
+}
