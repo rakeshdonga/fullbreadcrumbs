@@ -1,6 +1,6 @@
-## Installation
+## Installation Instruction
 
-Create a folder named **Rakesh/FixProductBreadcrumbs** under your app/code folder within your Magento Root directory and place all provided files within the src directory under that.
+Copy the content of the repo to the app/code/Rakesh/FixProductBreadcrumbs
 
 You need to perform the following commands after that *(within your magento root directory via ssh)*:
 
